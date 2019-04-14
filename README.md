@@ -1,3 +1,5 @@
+Frontend do Project Rocketbox desenvolvido durante a semana Omnistack da Rocketseat. Utilizado JavaScript, React e Node.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
